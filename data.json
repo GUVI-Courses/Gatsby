@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Iphone 15 Pro",
+    "image": "/products/iphone.webp",
+    "id": "iphone",
+    "specifications": {
+      "processor": "M1",
+      "display": "Retina Display",
+      "storage": "128 GB"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "image": "/products/samsung.webp",
+    "id": "samsung",
+    "specifications": {
+      "processor": "Exynos",
+      "display": "4K AMOLED",
+      "storage": "512 GB"
+    }
+  },
+  {
+    "name": "Oneplus 11 Pro",
+    "image": "/products/oneplus.webp",
+    "id": "oneplus",
+    "specifications": {
+      "processor": "Snapdragon 675",
+      "display": "LED",
+      "storage": "256 GB"
+    }
+  }
+]
